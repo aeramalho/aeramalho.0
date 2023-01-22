@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Aplicativo gratuito. <br/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 ## 💻 Projeto
 
-O Habits é app para ajudar a rastrear hábitos.
+O Habits é app para ajudar a rastrear os hábitos.
 
 ## 🔖 Layout
 
@@ -34,4 +34,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
 ---
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
